@@ -1,0 +1,4 @@
+/server/node_modules
+/ngApp/node_modules
+.idea
+.git
